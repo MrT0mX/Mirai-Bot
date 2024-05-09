@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "morning",
   version: "7.3.1",
 	hasPermssion: 0,
-	credits: "John Lester", 
+	credits: "MrTomXxX", 
 	description: "Just Respond",
 	commandCategory: "no prefix",
     cooldowns: 5, 

@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "joinNoti",
 	eventType: ["log:subscribe"],
 	version: "7.3.1",
-	credits: "John Lester",
+	credits: "MrTomXxX",
 	description: "Notification of bots or people entering groups with random gif/photo/video",
 	dependencies: {
 		"fs-extra": "",

@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "sad",
     version: "1.1.1",
 	hasPermssion: 0,
-	credits: "John Lester", 
+	credits: "MrTomXxX", 
 	description: "Just Respond",
 	commandCategory: "no prefix",
     cooldowns: 5, 

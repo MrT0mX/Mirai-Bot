@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "spank",
 	version: "7.3.1",
 	hasPermssion: 0,
-	credits: "John Lester",
+	credits: "MrTomXxX",
 	description: "spank",
 	commandCategory: "edit-img",
 	usages: "[blank or tag]",

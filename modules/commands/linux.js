@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "linux",
 	version: "7.3.1",
 	hasPermssion: 2,
-	credits: "John Lester",
+	credits: "MrTomXxX",
 	description: "running shell",
 	commandCategory: "System",
 	usages: "[shell]",

@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "fact",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "Phan Duy (fixed by John Lester)",
+	credits: "Phan Duy (fixed by MrTomXxX)",
 	description: "Comment on Fact's page",
 	commandCategory: "edit-img",
 	usages: "fact [text]",

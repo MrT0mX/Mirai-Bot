@@ -3,7 +3,7 @@ module.exports.config = {
 	name: "autoreactv2",
     version: "1.0.1",
 	hasPermssion: 0,
-	credits: "John Lester", 
+	credits: "MrTomXxX", 
 	description: "No Prefix",
 	commandCategory: "no prefix",
     cooldowns: 5, 

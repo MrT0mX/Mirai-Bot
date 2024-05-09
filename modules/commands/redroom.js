@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "redroom",
 	version: "11.9.7",
 	hasPermssion: 0,
-	credits: "John Lester",
+	credits: "MrTomXxX",
 	description: "redroom vids",
 	commandCategory: "Not For Kids",
 	usages: "",

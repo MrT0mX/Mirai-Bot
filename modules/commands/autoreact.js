@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "autoreact",
 	version: "1.1.1",
 	hasPermission: 0,
-	credits: "John Lester",
+	credits: "MrTomXxX",
 	description: "Bot React",
 	commandCategory: "No Prefix",
 	cooldowns: 0,

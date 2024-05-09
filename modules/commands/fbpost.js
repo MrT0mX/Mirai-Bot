@@ -10,7 +10,7 @@ module.exports.config = {
   name: "fbpost",
   version: "7.3.1",
   hasPermssion: 0,
-  credits: "John Lester",
+  credits: "MrTomXxX",
   description: "Facebook Post",
   commandCategory: "Edit-Img",
   usages: "text",

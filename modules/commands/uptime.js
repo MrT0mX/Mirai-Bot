@@ -130,9 +130,9 @@ registerFont(__dirname + `/tad/CaviarDreams.ttf`, {
     });
     ctx.textAlign = "start";
     ctx.font = "55px time";
-    ctx.fillText("John Lester", 930, 540)
-    ctx.fillText("John Lester", 930, 610)
-    ctx.fillText("John Lester", 930, 690)
+    ctx.fillText("MrTomXxX", 930, 540)
+    ctx.fillText("MrTomXxX", 930, 610)
+    ctx.fillText("MrTomXxX", 930, 690)
     ctx.restore();
     ctx.save();
     ctx.beginPath();
